@@ -1,0 +1,6 @@
+Deal Name,D1,D2,D3,D4,D5,Is Active,Country,Currency,Company
+First Deal,12345.6789,,-12345.6789,,,Yes,DZA,ANG,100
+Second Deal,987654321.54321,-12345.6789,,,,No,ASM,AOA,200
+,,,,,,Ye,AN-,AR-,30
+Fourth Deal,-12345.6789,,,12345.6789,,No,AGO,AUD,400
+Fifth Deal,,,,,12345.6789,Yes,AIA,AWG,500
