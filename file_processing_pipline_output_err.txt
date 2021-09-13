@@ -1,0 +1,76 @@
+RowNo: 000001: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: Deal Name Value: "" - Missing Deal Name, it is a Mandatory column.
+RowNo: 000003: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: - D1-D5 are all empty/invalid, need atleast one Decimal value
+RowNo: 000003: Column: Is_Active Value: "YE" - only Yes/No is allowed
+RowNo: 000003: Column: Country Value: "AN-" - invalid/missing Country code
+RowNo: 000003: Column: Currency Value: "AR-" - invalid/missing Currency code
+RowNo: 000003: Column: Company Value: "30" - invalid/missing Currency code
+RowNo: 000004: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: Company Value: "500" - invalid/missing Currency code
+RowNo: 000001: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: Deal Name Value: "" - Missing Deal Name, it is a Mandatory column.
+RowNo: 000003: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: - D1-D5 are all empty/invalid, need atleast one Decimal value
+RowNo: 000003: Column: Is_Active Value: "YE" - only Yes/No is allowed
+RowNo: 000003: Column: Country Value: "AN-" - invalid/missing Country code
+RowNo: 000003: Column: Currency Value: "AR-" - invalid/missing Currency code
+RowNo: 000003: Column: Company Value: "30" - invalid/missing Currency code
+RowNo: 000004: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: Company Value: "500" - invalid/missing Currency code
+RowNo: 000001: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000001: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D1 Value: "abc" - only Decimal/Float is allowed
+RowNo: 000002: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000002: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: Deal Name Value: "" - Missing Deal Name, it is a Mandatory column.
+RowNo: 000003: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000003: - D1-D5 are all empty/invalid, need atleast one Decimal value
+RowNo: 000003: Column: Is_Active Value: "YE" - only Yes/No is allowed
+RowNo: 000003: Column: Country Value: "AN-" - invalid/missing Country code
+RowNo: 000003: Column: Currency Value: "AR-" - invalid/missing Currency code
+RowNo: 000003: Column: Company Value: "30" - invalid/missing Currency code
+RowNo: 000004: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000004: Column: D5 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D1 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D2 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D3 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: D4 Value: "" - only Decimal/Float is allowed
+RowNo: 000005: Column: Company Value: "500" - invalid/missing Currency code
